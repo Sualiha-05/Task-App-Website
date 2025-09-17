@@ -1,12 +1,37 @@
-# React + Vite
+🚀 TaskFlow – Task Management App Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskFlow is a modern and responsive one-page website designed for a fictional productivity app that helps people organize, manage, and track their daily tasks with ease. This project was built during my internship at Elevvo Pathways as a practice in building professional landing pages using modern frontend technologies.
 
-Currently, two official plugins are available:
+✨ Features
+🎯 Hero Section – App name, tagline, and call-to-action button
+⚡ Features Grid – Highlighting key functionalities (Task Management, Reminders, Collaboration)
+💬 Testimonials – Quotes from happy fictional users
+💳 Pricing Plans – Free, Pro, and Team tiers with styled cards
+🌍 Footer – Contact links and social media icons
+🎨 Modern UI – Clean and fully responsive design
+🎞️ Animations – Sections animate smoothly on scroll using Framer Motion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+React – Component-based development
+Vite – Fast and lightweight build tool
+Tailwind CSS – Utility-first styling framework
+Framer Motion – For smooth animations and transitions
 
-## Expanding the ESLint configuration
+📂 Project Structure
+taskflow/
+│── public/
+│── src/
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│── tailwind.config.js
+│── postcss.config.js
+│── package.json
+│── README.md
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌟 Learning Outcomes
+
+Responsive design principles with Tailwind CSS
+Component composition in React
+Adding animations with Framer Motion
+Project structuring with Vite
